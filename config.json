@@ -1,0 +1,8 @@
+{
+    "webhookUrl": "<SLACK_WEBHOOK_URL>",
+    "miab": {
+        "domain": "box.your-domain.com",
+        "username": "status-bot@your-domain.com",
+        "password": "<PASSWORD>"
+    }
+}

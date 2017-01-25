@@ -1,0 +1,15 @@
+{
+  "name": "miab-status-bot",
+  "version": "1.0.0",
+  "description": "Sends status notifications about a Mail-in-a-Box server to Slack.",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlfriess/miab-status-bot.git"
+  },
+  "author": "Carl Friess <carl@carlfriess.com> (http://carlfriess.com/)",
+  "dependencies": {
+    "botkit": "latest",
+    "request": "latest"
+  }
+}
